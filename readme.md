@@ -1,3 +1,9 @@
+# Warning - `old-and-unsupported` branch
+
+You're on the **old-and-unsupported** branch - switch to [**main**](https://github.com/framebuffer-js/framebuffer-js/tree/main) and don't miss out on latest changes.
+
+---
+
 # Framebuffer JS
 
 ## Introduction
