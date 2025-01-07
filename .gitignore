@@ -1,15 +1,20 @@
-test
-tests
-test*
-benchmark
-benchmark/
-todo
-todo/
-impl
-impl/
-unit-test
-unit-test/
+# Dependencies
+node_modules/
+
+# IDE
 .idea
 .idea/
 .vscode
 .vscode/
+
+# dotenv variables
+.env
+.env.test
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# dev directory
+dev/
